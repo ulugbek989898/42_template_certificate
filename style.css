@@ -31,6 +31,10 @@ body {
   align-items: end;
 }
 
+.section1_right {
+	margin: 0 0 25px 0px;
+}
+
 .course_name {
   color: #ffd600;
   font-size: 34px;
