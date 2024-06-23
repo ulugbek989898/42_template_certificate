@@ -23,7 +23,7 @@ body {
 .section1 {
   display: flex;
   justify-content: space-between;
-  margin: 65px 0px 63px 0px;
+  margin: 65px 0px 63px -5px;
 }
 
 .section1_left {
@@ -32,7 +32,7 @@ body {
 }
 
 .section1_right {
-	margin: 0 0 32px 0px;
+	margin: 0 0 21px 0px;
 }
 
 .course_name {
