@@ -23,7 +23,7 @@ body {
 .section1 {
   display: flex;
   justify-content: space-between;
-  margin: 65px 0px 63px 0px;
+  margin: 65px 0px 39px 0px
 }
 
 .section1_left {
