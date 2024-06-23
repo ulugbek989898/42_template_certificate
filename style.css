@@ -23,7 +23,7 @@ body {
 .section1 {
   display: flex;
   justify-content: space-between;
-  margin: 65px 0px 63px -5px;
+  margin: 65px 0px 63px -3px;
 }
 
 .section1_left {
@@ -41,7 +41,7 @@ body {
   font-family: "Work Sans", sans-serif;
   font-weight: 500;
   margin: 0;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .course_name_par {
